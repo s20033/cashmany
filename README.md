@@ -1,0 +1,2 @@
+# cashmany
+Restaurant CashFlow Tracker
